@@ -72,7 +72,7 @@ All timestamps (mood entries, journal submissions, OTPs) are recorded in a fixed
 
 ## Running the Application
 
-### Option A — Google Colab (demo/development)
+### Google Colab (demo/development)
 
 1. Open the notebook in Google Colab.
 2. Add the required secrets via the Colab **Secrets** panel (🔑 icon): `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER`, `DB_PASSWORD`, `SMTP_EMAIL`, `SMTP_APP_PASSWORD`, `NGROK_AUTHTOKEN`. `JWT_SECRET` is auto-generated if omitted, and `GROQ_API_KEY` is optional (enables LLM wellness suggestions).
