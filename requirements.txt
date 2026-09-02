@@ -17,6 +17,7 @@ transformers
 accelerate
 torch
 stopwordsiso
+deepface
 opencv-python-headless
 bleach
 fastapi
