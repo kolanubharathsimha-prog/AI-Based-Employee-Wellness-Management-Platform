@@ -17,6 +17,7 @@ transformers
 accelerate
 torch
 stopwordsiso
+opencv-python-headless
 bleach
 fastapi
 uvicorn[standard]
